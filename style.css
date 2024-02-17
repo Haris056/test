@@ -3,7 +3,7 @@
 }
 
 
-.navbar>img{
+.logo-img >img{
     width: 300px;
     filter: grayscale(1) brightness(0);
 }
