@@ -1,0 +1,9 @@
+.body{
+    background-color: yellow;
+}
+
+
+.navbar>img{
+    width: 300px;
+    filter: grayscale(1) brightness(0);
+}
